@@ -1,0 +1,18 @@
+DRIVER_PATH = "C:\seleniumdriver"
+LAND_URL = "https://www.booking.com"
+CURRENCY = 'EGP'
+CITY = 'Sharm El Sheikh'
+IN_DATE = '2022-05-22'
+OUT_DATE = '2022-05-30'
+ADULTS = 1
+CHILDREN = 0
+ROOMS = 2
+## FUN THINGS
+DIVING = 82
+SNORKELING = 90
+BEACH = 302
+WALKING_TOURS = 404
+FISHING = 19
+FOOT = 50
+
+
